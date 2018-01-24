@@ -8,4 +8,4 @@ W celu uruchomienia aplikacji można posłużyć się skryptem w bashu, który w
 - skrypcik.py - główna aplikacja służąca do zasymulowania sprawdzania alarmów bezpieczeństwa
 - scripts.sh - uruchomienie poszczegolnych komend w nowych okienkach - zachowanie pewnego porządku
 
-https://drive.google.com/file/d/1JXpCVKJukxYRfpzwMtZp-7R7tvizBBc9/view?usp=sharing
+https://drive.google.com/file/d/1XMPIi9Y80yDY706Bl8gwAr2HK4eyrMBB/view?usp=sharing
